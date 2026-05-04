@@ -2,6 +2,8 @@
 
 A machine learning–powered email classifier and priority manager built with Python and Streamlit.
 
+🚀 **Live Demo:** [smart-email-classifier.streamlit.app](https://smart-email-classifier-ldfwnqyjrzvh3aru5zi9mn.streamlit.app/)
+
 ## Features
 
 - **Email Classification** — Categorizes emails as `work`, `spam`, `personal`, or `urgent` using TF-IDF + Naive Bayes
